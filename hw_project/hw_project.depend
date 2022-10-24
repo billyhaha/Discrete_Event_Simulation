@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+903864794 source:d:\datastructure_ex\hw_project\lcgrand.c
+
+1639837209 source:d:\datastructure_ex\hw_project\mm1.c
+	<stdio.h>
+	<math.h>
+	"lcgrand.h"
+
+903864616 d:\datastructure_ex\hw_project\lcgrand.h
+	"lcgrand.h"
+
+1639745288 source:d:\datastructure_ex\hw_project\ex.c
+	<stdio.h>
+	<math.h>
+	"lcgrand.h"
+
+1639891161 source:d:\datastructure_ex\hw_project\hw1.c
+	<stdio.h>
+	<math.h>
+	"lcgrand.h"
+
+903864794 source:c:\users\user\desktop\網路效能project1\hw_project\lcgrand.c
+
+1640669749 source:c:\users\user\desktop\網路效能project1\hw_project\hw1.c
+	<stdio.h>
+	<math.h>
+	"lcgrand.h"
+
+903864616 c:\users\user\desktop\網路效能project1\hw_project\lcgrand.h
+	"lcgrand.h"
+
