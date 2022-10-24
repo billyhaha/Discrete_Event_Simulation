@@ -4,7 +4,8 @@ Discrete_Event_Simulation
 
 In this assignment you will construct a simulation of a video capture server and use this simulation to undertake performance analysis. The system can be modelled as tandem queue with two stages:
 
- 
+ ![image](https://user-images.githubusercontent.com/88093504/197467439-785088ba-3788-4f80-abf0-5d4d7ef289ce.png)
+
 
 The system operation is as follows.
 • Video enters the system in the form of fields. Each field is either a top field or a bottom field; the first field received will be a top field. A top field and the bottom field immediately following it make up a frame of video. Each frame of video is therefore comprised of two fields: a top field and a bottom field.
